@@ -1,0 +1,6 @@
+- points: 1
+  cmd: "helloworld"
+  expect: "Hello world!"
+  note: "Expect a helloworld program which print 'Hello world!'(case sensitive)"
+  name: "User Program"
+
